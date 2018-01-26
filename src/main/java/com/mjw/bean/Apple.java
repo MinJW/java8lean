@@ -43,6 +43,10 @@ public class Apple{
         return a1.getWidth() - a2.getWidth();
     }
 
+    public static void message(Apple apple){
+        System.out.println(apple.getColor()+","+apple.getWidth()+"\t");
+    }
+
     @Override
     public String toString() {
         return "Apple{" +

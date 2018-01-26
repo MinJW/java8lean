@@ -76,14 +76,15 @@ public class Demo1 {
         });*/
 
         //lambda
-        //Collections.sort(apples, (o1 ,o2) -> o1.getWidth() - o2.getWidth());
+        Collections.sort(apples, (o1 ,o2) -> o1.getWidth() - o2.getWidth());
 
         //使用lambda表达式和类的静态方法
-        //Collections.sort(apples,(a1,a2) -> Apple.appleCompare(a1,a2));
+        Collections.sort(apples,(a1,a2) -> Apple.appleCompare(a1,a2));
 
         //使用方法引用
         //引用的是类的静态方法
-        //Collections.sort(apples,Apple::appleCompare);
+        Collections.sort(apples,Apple::appleCompare);
+        apples.forEach(Apple::message);
 
         //使用方法引用
         //引用的是类的实例方法
@@ -101,8 +102,8 @@ public class Demo1 {
         //Set<Apple> arrs = transferElements(apples,() -> new HashSet<Apple>());
         //Set<Apple> arss = transferElements(apples,HashSet::new);
 
-        say("a",() -> new Apple());
-        say("a",Apple::new);
+        //say("a",() -> new Apple());
+        //say("a",Apple::new);
 
         //log(apples);
     }

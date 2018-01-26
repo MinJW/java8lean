@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6075e662-2c1b-4b8c-ac1e-7a6ffd078640" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mjw/bean/Apple.java" afterPath="$PROJECT_DIR$/src/main/java/com/mjw/bean/Apple.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mjw/demo/Demo1.java" afterPath="$PROJECT_DIR$/src/main/java/com/mjw/demo/Demo1.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,8 +41,20 @@
       <file leaf-file-name="Demo1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/demo/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+            <state relative-caret-position="441">
+              <caret line="124" column="0" lean-forward="true" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+              <folding>
+                <element signature="e#892#899#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Iterable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java8/dk1.8.0_144/src.zip!/java/lang/Iterable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="74" column="29" lean-forward="true" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -53,6 +66,20 @@
             <state relative-caret-position="24">
               <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Apple.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/bean/Apple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="46" column="68" lean-forward="false" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#934#935#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,7 +127,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mjw/bean/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mjw/Method/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mjw/demo/MyFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mjw/bean/Apple.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mjw/Annotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mjw/newInterface/Annotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mjw/Type/Value.java" />
@@ -109,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mjw/nashorn/NashornDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/test.html" />
         <option value="$PROJECT_DIR$/src/main/java/script.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mjw/bean/Apple.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mjw/demo/Demo1.java" />
       </list>
     </option>
@@ -214,6 +241,9 @@
     <property name="project.structure.side.proportion" value="0.30192503" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -457,14 +487,11 @@
       <workItem from="1515738060232" duration="4848000" />
       <workItem from="1516264887769" duration="3205000" />
       <workItem from="1516864429992" duration="138000" />
-      <workItem from="1516932745562" duration="13023000" />
+      <workItem from="1516932745562" duration="16315000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Demo1_fun5 - 2018.01.26 at 11h 23m 12s.xml">
-      <configuration name="Demo1.fun5" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Demo1_fun5 - 2018.01.26 at 11h 31m 01s.xml">
       <configuration name="Demo1.fun5" configurationId="JUnit" />
     </history-entry>
@@ -472,6 +499,9 @@
       <configuration name="Demo1.fun5" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Demo1_fun5 - 2018.01.26 at 16h 31m 49s.xml">
+      <configuration name="Demo1.fun5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1_fun5 - 2018.01.26 at 17h 09m 10s.xml">
       <configuration name="Demo1.fun5" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NashornDemo_fun - 2018.01.26 at 16h 08m 43s.xml">
@@ -494,11 +524,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21214000" />
+    <option name="totallyTimeSpent" value="24506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -509,7 +538,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2892741" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2892741" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -542,24 +571,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/demo/ApplePredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/bean/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/demo/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2328">
@@ -710,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java8/dk1.8.0_144/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="72" column="39" lean-forward="true" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/java8/dk1.8.0_144/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -818,8 +822,8 @@
         <state relative-caret-position="197">
           <caret line="173" column="56" lean-forward="false" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="56" />
           <folding>
-            <element signature="e#7284#7285#0" expanded="true" />
-            <element signature="e#7312#7313#0" expanded="true" />
+            <element signature="e#7284#7285#0" expanded="false" />
+            <element signature="e#7312#7313#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -875,16 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/bean/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/demo/MyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -935,10 +929,10 @@
         <state relative-caret-position="264">
           <caret line="11" column="1" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#86#87#0" expanded="false" />
+            <element signature="e#113#114#0" expanded="false" />
+            <element signature="e#169#170#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -956,7 +950,7 @@
         <state relative-caret-position="696">
           <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -977,10 +971,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/nashorn/NashornDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="480">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java8/dk1.8.0_144/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="200" column="24" lean-forward="false" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -993,21 +997,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/nashorn/NashornDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/bean/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="387">
+          <caret line="46" column="68" lean-forward="false" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java8/dk1.8.0_144/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java8/dk1.8.0_144/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="74" column="29" lean-forward="true" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mjw/demo/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="441">
+          <caret line="124" column="0" lean-forward="true" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding>
+            <element signature="e#892#899#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
