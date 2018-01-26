@@ -17,7 +17,7 @@ public class Demo {
     @Test
     public void fun2(){
         Value<Integer> value = new Value<>();
-        value.getOrDefault(111,Value.defaultValue());//自动推导为Integer
+        value.getOrDefault(111,Value.defaultValue());// 自动推导为Integer
     }
 
 
