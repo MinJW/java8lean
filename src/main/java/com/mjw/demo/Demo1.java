@@ -67,7 +67,6 @@ public class Demo1 {
     public void fun5(){
         List<Apple> apples = getApples();
 
-
         //匿名类
         /*Collections.sort(apples, new Comparator<Apple>(){
             @Override
@@ -106,8 +105,6 @@ public class Demo1 {
         say("a",Apple::new);
 
         //log(apples);
-
-
     }
 
 
